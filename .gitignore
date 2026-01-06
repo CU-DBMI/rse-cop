@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Jekyll build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
