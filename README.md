@@ -1,8 +1,3 @@
----
-layout: default
-title: Research Software Engineering Community of Practice
----
-
 # Research Software Engineering Community of Practice (RSE-CoP)
 
 <img alt="Image of bioinformatics software creatures" src="media/rse-cop-logo.png" width="400px">
