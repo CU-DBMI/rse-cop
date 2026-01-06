@@ -26,5 +26,6 @@ Please don't hesitate to reach out if you have any questions!
 
 Please also note:
 
-- We abide a [code of conduct](CODE_OF_CONDUCT.md).
-- Feel free to submit changes following our (super minimal) [contributing](CONTRIBUTING.md) guide.
+- We abide a [code of conduct](https://github.com/CU-DBMI/rse-cop/blob/main/CODE_OF_CONDUCT.md).
+- Feel free to submit changes following our (super minimal) [contributing](https://github.com/CU-DBMI/rse-cop/blob/main/CONTRIBUTING.md) guide.
+- Visit our the repository for this page to submit ideas / bugs / comments: [https://github.com/CU-DBMI/rse-cop](https://github.com/CU-DBMI/rse-cop)
