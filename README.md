@@ -8,10 +8,11 @@ We host periodic lightning talks, discussions, and collaborative sessions focuse
 
 <div style="padding:1em; background:#fff3cd; border-left:6px solid #ffecb5;">
 
-<strong>🎉 Please join us by completing this form!</strong>
+<p><strong>🎉 Please join us by completing this form!</strong></p>
 
-<a href="https://forms.office.com/r/CyzAD84Eea">https://forms.office.com/r/CyzAD84Eea</a>
-(<i>requires CU Anschutz login</i>)
+<p><a href="https://forms.office.com/r/CyzAD84Eea">https://forms.office.com/r/CyzAD84Eea</a>
+<br>
+(<i>requires CU Anschutz login</i>)</p>
 
 </div>
 
