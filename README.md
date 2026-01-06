@@ -4,14 +4,17 @@ A local Research Software Engineering Community of Practice (RSE-CoP) hosted by 
 
 We host periodic lightning talks, discussions, and collaborative sessions focused on scientific software, data workflows, and research computing practices.
 
+<br>
+
 <div style="padding:1em; background:#fff3cd; border-left:6px solid #ffecb5;">
 
-**Please join us by completing this form!**
+<strong>🎉 Please join us by completing this form!</strong>
 
-https://forms.office.com/r/CyzAD84Eea
-(_requires CU Anschutz login_)
+<a href="https://forms.office.com/r/CyzAD84Eea">https://forms.office.com/r/CyzAD84Eea</a>
+(<i>requires CU Anschutz login</i>)
 
 </div>
+
 <br>
 
 Once you submit the above form you will be added to a group for email-based communications.
