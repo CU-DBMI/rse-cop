@@ -1,0 +1,42 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+default_language_version:
+  python: python3.11
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+-   repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+    -   id: codespell
+        exclude: >
+          (?x)^(
+              .*\.lock|.*\.csv|.*\.cff|.*\.ipynb
+          )$
+        additional_dependencies:
+        -   tomli
+-   repo: https://github.com/executablebooks/mdformat
+    rev: 1.0.0
+    hooks:
+    -   id: mdformat
+        additional_dependencies:
+        -   mdformat-myst
+        -   mdformat-gfm
+-   repo: https://github.com/adrienverge/yamllint
+    rev: v1.37.1
+    hooks:
+    -   id: yamllint
+        exclude: >
+          (?x)^(
+            .pre-commit-config\.yaml |
+              .github/dependabot\.yml
+          )$
+-   repo: https://gitlab.com/vojko.pribudic.foss/pre-commit-update
+    rev: v0.9.0
+    hooks:
+    -   id: pre-commit-update
+        args: ["--keep", "pre-commit-update"]
