@@ -3,9 +3,11 @@ layout: default
 title: Research Software Engineering Community of Practice
 ---
 
-# Research Software Engineering Community of Practice (RSE-CoP)
+# Research Software Engineering<br> Community of Practice (RSE-CoP)
 
-<img alt="Image of bioinformatics software creatures" src="media/rse-cop-logo.png" width="400px">
+<center>
+<img alt="Image of bioinformatics software creatures" src="media/rse-cop-logo.png" width="350px">
+</center><br>
 
 A local Research Software Engineering Community of Practice (RSE-CoP) hosted by the Department of Biomedical Informatics within the School of Medicine at CU Anschutz.
 
