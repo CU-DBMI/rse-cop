@@ -1,0 +1,8 @@
+title: Research Software Engineering Community of Practice
+description: Local CU Anschutz RSE-CoP home page
+theme: minima
+plugins:
+  - jekyll-readme-index
+readme_index:
+  enabled: true
+  remove_originals: true

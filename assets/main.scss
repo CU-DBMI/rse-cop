@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Restrict readable width for all primary containers. */
+.wrapper,
+.post-content,
+.page-content {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
