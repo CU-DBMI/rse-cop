@@ -1,8 +1,3 @@
----
-layout: default
-title: Research Software Engineering Community of Practice
----
-
 # Research Software Engineering<br> Community of Practice (RSE-CoP)
 
 <center>
