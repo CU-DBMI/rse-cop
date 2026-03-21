@@ -16,13 +16,23 @@ We host periodic lightning talks, discussions, and collaborative sessions focuse
 <br>
 (<i>requires CU Anschutz login</i>)</p>
 
+Once you submit the above form you will be added to a group for email-based communications.
+You also will receive an invite to our Discord server for optional async communications.
+Please don't hesitate to reach out if you have any questions!
+
 </div>
 
 <br>
 
-Once you submit the above form you will be added to a group for email-based communications.
-You also will receive an invite to our Discord server for optional async communications.
-Please don't hesitate to reach out if you have any questions!
+<div style="padding:1em; background:#e7f1ff; border-left:6px solid #9ec5fe;">
+
+<p><strong>Looking for previous sessions?</strong></p>
+
+<p>Visit the <a href="past-meetings">past meetings recap page</a> for summaries and presentation resources.</p>
+
+</div>
+
+<br>
 
 Please also note:
 
