@@ -1,1 +1,11 @@
-<header class="site-header" role="presentation" aria-hidden="true" style="display:none;"></header>
+<header class="site-header" role="banner">
+  <div class="wrapper cop-header-wrapper">
+    <a class="site-title cop-title" rel="author" href="{{ "/" | relative_url }}">RSE-CoP</a>
+
+    <nav class="cop-nav" aria-label="Main">
+      <a class="cop-nav-link{% if page.url == "/" %} is-active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+      <a class="cop-nav-link{% if page.url == "/past-meetings/" %} is-active{% endif %}" href="{{ "/past-meetings/" | relative_url }}">Past Meetings</a>
+      <a class="cop-nav-link{% if page.url == "/conferences/" %} is-active{% endif %}" href="{{ "/conferences/" | relative_url }}">Conferences</a>
+    </nav>
+  </div>
+</header>

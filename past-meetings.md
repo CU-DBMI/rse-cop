@@ -19,10 +19,10 @@ This page collects recaps and presentation resources from previous Research Soft
 
 ### Lightning Talks
 
-| Name             | Team                                                           | Dept                                 | Presentation Title                                            | Resources                                                                                                        |
-| ---------------- | -------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Michael Kaufman  | CU Cancer Center Biostatistics and Bioinformatics Shared Resource (BBSR) | Department of Biomedical Informatics | uv: an extremely fast Python package and project manager      | [Google Slides](https://docs.google.com/presentation/d/1hWxW0dwWjWWvI_tp5Y-ic5BqmbrceXztjEkriCM2N_U/edit?usp=sharing) |
-| Vincent Rubinetti | Software Engineering Team                                      | Department of Biomedical Informatics | -                                                             | [Google Slides](https://docs.google.com/presentation/d/1GiWqzYzzLsx5SEvAv0GLDvkSHtmtqp8zCczveq9YnEY)           |
+| Name              | Team                                                                     | Dept                                 | Presentation Title                                       | Resources                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------ | ------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Michael Kaufman   | CU Cancer Center Biostatistics and Bioinformatics Shared Resource (BBSR) | Department of Biomedical Informatics | uv: an extremely fast Python package and project manager | [Google Slides](https://docs.google.com/presentation/d/1hWxW0dwWjWWvI_tp5Y-ic5BqmbrceXztjEkriCM2N_U/edit?usp=sharing) |
+| Vincent Rubinetti | Software Engineering Team                                                | Department of Biomedical Informatics | -                                                        | [Google Slides](https://docs.google.com/presentation/d/1GiWqzYzzLsx5SEvAv0GLDvkSHtmtqp8zCczveq9YnEY)                  |
 
 ## 3/11/26
 
