@@ -8,6 +8,22 @@ permalink: /past-meetings/
 
 This page collects recaps and presentation resources from previous Research Software Engineering Community of Practice meetings.
 
+## 4/15/26
+
+### Agenda
+
+- [Meeting agenda issue](https://github.com/CU-DBMI/rse-cop/issues/10)
+- Intro (~15 min): Brief intro to RSE-CoP, interaction, and resources
+- Lightning Talks (~15 min): 2x 5-minute community presentations with 2 minutes of Q&A
+- Connect (~30 min): Getting to know the community through discussion
+
+### Lightning Talks
+
+| Name             | Team                                                           | Dept                                 | Presentation Title                                            | Resources                                                                                                        |
+| ---------------- | -------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Michael Kaufman  | CU Cancer Center Biostatistics and Bioinformatics Shared Resource (BBSR) | Department of Biomedical Informatics | uv: an extremely fast Python package and project manager      | [Google Slides](https://docs.google.com/presentation/d/1hWxW0dwWjWWvI_tp5Y-ic5BqmbrceXztjEkriCM2N_U/edit?usp=sharing) |
+| Vincent Rubinetti | Software Engineering Team                                      | Department of Biomedical Informatics | -                                                             | [Google Slides](https://docs.google.com/presentation/d/1GiWqzYzzLsx5SEvAv0GLDvkSHtmtqp8zCczveq9YnEY)           |
+
 ## 3/11/26
 
 ### Lightning Talks
