@@ -4,8 +4,6 @@ title: Past Meetings
 permalink: /past-meetings/
 ---
 
-# Past Meetings
-
 This page collects recaps and presentation resources from previous Research Software Engineering Community of Practice meetings.
 
 ## 4/15/26
