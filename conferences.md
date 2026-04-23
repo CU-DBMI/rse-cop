@@ -4,8 +4,6 @@ title: Conferences
 permalink: /conferences/
 ---
 
-# Conferences
-
 This page tracks conferences that are relevant to research software engineering (RSE), scientific computing, and HPC.
 
 ## US-RSE

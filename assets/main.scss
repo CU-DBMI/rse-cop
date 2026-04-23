@@ -34,18 +34,25 @@
 
 .cop-nav-link {
   border-bottom: 2px solid transparent;
-  color: #424242;
+  color: #2f3b45;
   padding: 0.25rem 0.15rem;
   text-decoration: none;
 }
 
-.cop-nav-link:hover {
+.cop-nav-link:visited,
+.cop-nav-link:hover,
+.cop-nav-link:focus,
+.cop-nav-link:active {
+  color: #2f3b45;
   text-decoration: none;
+}
+
+.cop-nav-link:hover {
   border-bottom-color: #9aa0a6;
 }
 
 .cop-nav-link.is-active {
   border-bottom-color: #2a7ae2;
-  color: #111;
+  color: #2f3b45;
   font-weight: 600;
 }
