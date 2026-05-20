@@ -12,10 +12,10 @@ Meeting agendas are always posted in [repository issues](https://github.com/CU-D
 
 ### Lightning Talks
 
-| Name        | Team                     | Dept | Presentation Title                                                                | Resources                                                                                                                                                                                                 |
-| ----------- | ------------------------ | ---- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alex McKim  | Software Engineering Team | DBMI | Learning Rust by building a JRPG, and why it matters for biomedical science      | [Slides](https://docs.google.com/presentation/d/1YM55LLht9L1upbzAUsaKp6DVx6Bo_hPDfcc3amkUJHQ/edit)                                                                                                      |
-| Parker Hicks | Krishnan Lab             | DBMI | MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies | [Preprint](https://arxiv.org/abs/2602.07805), [Code](https://github.com/krishnanlab/meta-hq), [Slides](https://docs.google.com/presentation/d/1vwmJiMWtkyht9oUXcKfdp6cFxVRvBjnYBxaZVFci1mA/edit?usp=sharing) |
+| Name         | Team                      | Dept | Presentation Title                                                                        | Resources                                                                                                                                                                                                    |
+| ------------ | ------------------------- | ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alex McKim   | Software Engineering Team | DBMI | Learning Rust by building a JRPG, and why it matters for biomedical science               | [Slides](https://docs.google.com/presentation/d/1YM55LLht9L1upbzAUsaKp6DVx6Bo_hPDfcc3amkUJHQ/edit)                                                                                                           |
+| Parker Hicks | Krishnan Lab              | DBMI | MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies | [Preprint](https://arxiv.org/abs/2602.07805), [Code](https://github.com/krishnanlab/meta-hq), [Slides](https://docs.google.com/presentation/d/1vwmJiMWtkyht9oUXcKfdp6cFxVRvBjnYBxaZVFci1mA/edit?usp=sharing) |
 
 ## 4/15/26
 
