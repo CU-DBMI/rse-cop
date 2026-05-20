@@ -6,14 +6,18 @@ permalink: /past-meetings/
 
 This page collects recaps and presentation resources from previous Research Software Engineering Community of Practice meetings.
 
+Meeting agendas are always posted in [repository issues](https://github.com/CU-DBMI/rse-cop/issues).
+
+## 5/20/26
+
+### Lightning Talks
+
+| Name         | Team                      | Dept | Presentation Title                                                                        | Resources                                                                                                                                                                                                    |
+| ------------ | ------------------------- | ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alex McKim   | Software Engineering Team | DBMI | Learning Rust by building a JRPG, and why it matters for biomedical science               | [Slides](https://docs.google.com/presentation/d/1YM55LLht9L1upbzAUsaKp6DVx6Bo_hPDfcc3amkUJHQ/edit)                                                                                                           |
+| Parker Hicks | Krishnan Lab              | DBMI | MetaHQ: Harmonized, high-quality metadata annotations of public omics samples and studies | [Preprint](https://arxiv.org/abs/2602.07805), [Code](https://github.com/krishnanlab/meta-hq), [Slides](https://docs.google.com/presentation/d/1vwmJiMWtkyht9oUXcKfdp6cFxVRvBjnYBxaZVFci1mA/edit?usp=sharing) |
+
 ## 4/15/26
-
-### Agenda
-
-- [Meeting agenda issue](https://github.com/CU-DBMI/rse-cop/issues/10)
-- Intro (~15 min): Brief intro to RSE-CoP, interaction, and resources
-- Lightning Talks (~15 min): 2x 5-minute community presentations with 2 minutes of Q&A
-- Connect (~30 min): Getting to know the community through discussion
 
 ### Lightning Talks
 
