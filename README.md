@@ -26,6 +26,16 @@ Please don't hesitate to reach out if you have any questions!
 
 <div style="padding:1em; background:#e7f1ff; border-left:6px solid #9ec5fe;">
 
+<p><strong>Exploring RSE skills and pathways?</strong></p>
+
+<p>Visit the <a href="rse-career-map">RSE career map</a> for a lightweight, community-editable view of skill areas, growth stages, and source resources.</p>
+
+</div>
+
+<br>
+
+<div style="padding:1em; background:#e7f1ff; border-left:6px solid #9ec5fe;">
+
 <p><strong>Looking for previous sessions?</strong></p>
 
 <p>Visit the <a href="past-meetings">past meetings recap page</a> for summaries and presentation resources.</p>

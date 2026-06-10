@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/rse-serve.py"],
+      "port": 4000,
+      "autoPort": true
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     <nav class="cop-nav" aria-label="Main">
       <a class="cop-nav-link{% if page.url == "/" %} is-active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
       <a class="cop-nav-link{% if page.url == "/past-meetings/" %} is-active{% endif %}" href="{{ "/past-meetings/" | relative_url }}">Past Meetings</a>
-      <a class="cop-nav-link{% if page.url == "/conferences/" %} is-active{% endif %}" href="{{ "/conferences/" | relative_url }}">Conferences</a>
+      <a class="cop-nav-link{% if page.url == "/resources/" or page.url == "/conferences/" or page.url == "/rse-career-map/" %} is-active{% endif %}" href="{{ "/resources/" | relative_url }}">Resources</a>
     </nav>
   </div>
 </header>
