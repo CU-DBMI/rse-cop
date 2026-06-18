@@ -8,8 +8,8 @@ A curated set of resources for Research Software Engineers at CU Anschutz and be
 
 ## Community and events
 
-- [Conferences](/conferences/) — a curated list of RSE and domain-specific conferences, workshops, and community events worth attending or submitting to.
-- [How to Run an RSE-CoP Meeting](/run-rse-cop-meeting/) — checklist for scheduling, room booking, invitations, slides, agenda issues, and lightning talks.
+- [Conferences](../conferences/) — a curated list of RSE and domain-specific conferences, workshops, and community events worth attending or submitting to.
+- [How to Run an RSE-CoP Meeting](../run-rse-cop-meeting/) — checklist for scheduling, room booking, invitations, slides, agenda issues, and lightning talks.
 
 ## External references
 
