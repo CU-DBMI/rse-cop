@@ -27,6 +27,6 @@ Use this checklist when planning, running, and closing out a Research Software E
 
 ## After the meeting
 
-- [ ] Share the agenda and resources via the [past meetings page](../past-meetings/) on this repo.
+- [ ] Share the agenda and resources via the [past meetings page](/rse-cop/past-meetings/) on this repo.
 - [ ] Close out the GitHub issue for the meeting.
 - [ ] Pass this page and any other related guidance to the next lead for the next meeting.
