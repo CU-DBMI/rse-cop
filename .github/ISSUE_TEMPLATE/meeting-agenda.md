@@ -1,9 +1,9 @@
 ---
 name: Meeting agenda
 about: Plan and share an RSE-CoP meeting agenda
-title: "Meeting agenda - M/D/YY"
-labels: ""
-assignees: ""
+title: Meeting agenda - M/D/YY
+labels: ''
+assignees: ''
 ---
 
 ## Description
