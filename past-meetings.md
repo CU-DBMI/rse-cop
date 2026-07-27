@@ -16,9 +16,9 @@ Brief intro to RSE-CoP, field notes, and resources.
 
 ### Lightning Talks
 
-| Name                       | Team                                      | Dept | Presentation Title                                      | Resources                                                                                  |
-| -------------------------- | ----------------------------------------- | ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Sarah Slack and Jess Murphy | RKJcollab and Hendricks Lab, respectively | DBMI | URSSI Research Software Engineering Best Practices      | [Slides](https://sdslack.github.io/presentation-rse-cop-urssi-rse/#/title-slide)           |
+| Name                        | Team                                      | Dept | Presentation Title                                 | Resources                                                                        |
+| --------------------------- | ----------------------------------------- | ---- | -------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Sarah Slack and Jess Murphy | RKJcollab and Hendricks Lab, respectively | DBMI | URSSI Research Software Engineering Best Practices | [Slides](https://sdslack.github.io/presentation-rse-cop-urssi-rse/#/title-slide) |
 
 ### Connect
 
