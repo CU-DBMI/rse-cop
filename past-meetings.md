@@ -8,6 +8,34 @@ This page collects recaps and presentation resources from previous Research Soft
 
 Meeting agendas are always posted in [repository issues](https://github.com/CU-DBMI/rse-cop/issues).
 
+## 7/15/26
+
+### Welcome
+
+Brief intro to RSE-CoP, field notes, and resources.
+
+### Lightning Talks
+
+| Name                       | Team                                      | Dept | Presentation Title                                      | Resources                                                                                  |
+| -------------------------- | ----------------------------------------- | ---- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Sarah Slack and Jess Murphy | RKJcollab and Hendricks Lab, respectively | DBMI | URSSI Research Software Engineering Best Practices      | [Slides](https://sdslack.github.io/presentation-rse-cop-urssi-rse/#/title-slide)           |
+
+### Connect
+
+Getting to know the community through discussion.
+
+## 6/17/26
+
+### Lightning Talks
+
+| Name           | Team                | Dept | Presentation Title | Resources |
+| -------------- | ------------------- | ---- | ------------------ | --------- |
+| Hanan Shorrosh | Health Data Compass | -    | -                  | -         |
+
+### Connect
+
+Getting to know the community through discussion.
+
 ## 5/20/26
 
 ### Lightning Talks
