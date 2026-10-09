@@ -8,6 +8,12 @@ This page collects recaps and presentation resources from previous Research Soft
 
 Meeting agendas are always posted in [repository issues](https://github.com/CU-DBMI/rse-cop/issues).
 
+## 9/30/26
+
+### RSE-CoP Guest Talk: [Quantinuum](https://www.quantinuum.com/)
+
+Several guest speakers from Quantinuum explored quantum computing and emerging quantum solutions for bioinformatics. The presentation was followed by informal discussion, brainstorming, and collaborative exploration of potential applications with the Quantinuum team.
+
 ## 7/15/26
 
 ### Welcome
